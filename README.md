@@ -3,7 +3,7 @@
 **Advanced cheat tools for Meccha Chameleon**
 
 This repository contains various hacks and tools for the popular hide-and-seek painting game **Meccha Chameleon**.
-https://assets.grok.com/users/fb053c87-9e64-4bed-ab9c-802bc5ff0a5f/generated/8f9e6dd3-4812-4816-89c4-632ee435bdc0/image.jpg
+
 ## Features
 - **Auto Painter** — Automatically paints your character with any image or custom design
 - **Chameleon Camo** — Real-time environment blending (perfect camouflage)
